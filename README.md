@@ -20,7 +20,7 @@ Este repositório tem como finalidade armazenar os projetos que realizei ao estu
 
 |                               Desktop                                |                             Mobile                            
 | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| <img src="https://github.com/marlonakio/Estudo_HTML_CSS/blob/main/.github/Projeto-01/desktop.gif?raw=true" width="600" /> | <img src="https://github.com/marlonakio/Estudo_HTML_CSS/blob/main/.github/Projeto-01/mobile.gif?raw=true" /> 
+| <img src="https://github.com/marlonakio/Estudo_HTML_CSS/blob/main/.github/Projeto-01/desktop.gif?raw=true" width="650" /> | <img src="https://github.com/marlonakio/Estudo_HTML_CSS/blob/main/.github/Projeto-01/mobile.gif?raw=true" width="180" /> 
 
 <br>
 
@@ -28,7 +28,7 @@ Este repositório tem como finalidade armazenar os projetos que realizei ao estu
 
 |                               Desktop                                |                             Mobile                            
 | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| <img src="https://github.com/marlonakio/Estudo_HTML_CSS/blob/main/.github/Projeto-02/desktop.gif?raw=true" width="600" /> | <img src="https://github.com/marlonakio/Estudo_HTML_CSS/blob/main/.github/Projeto-02/mobile.gif?raw=true" /> 
+| <img src="https://github.com/marlonakio/Estudo_HTML_CSS/blob/main/.github/Projeto-02/desktop.gif?raw=true" width="650" /> | <img src="https://github.com/marlonakio/Estudo_HTML_CSS/blob/main/.github/Projeto-02/mobile.gif?raw=true" width="180"/> 
 
 ## 🚀 Tecnologias
 
